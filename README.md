@@ -278,15 +278,6 @@ npm run test:coverage
 
 ---
 
----
-
-## 📄 License
-
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
-
----
 
 ## 👤 Creator
 
